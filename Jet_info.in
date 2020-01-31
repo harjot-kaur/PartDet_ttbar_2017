@@ -160,8 +160,8 @@ Tau2MatchingDeltaR 0.3
 
 ApplyJetBTagging 1
 ##JetBTaggingCut  0.1522
-JetBTaggingCut  0.4941
-##JetBTaggingCut  0.8001
+##JetBTaggingCut  0.4941
+JetBTaggingCut  0.8001
 MatchBToGen     0
 UseBtagSF       1
 RemoveBJetsFromJets 1
